@@ -1,5 +1,5 @@
 # Bank-Management-System
-A desktop banking management system bult with C# and Windows Form ,using SQL Server as the database.
+## A desktop banking management system bult with C# and Windows Form ,using SQL Server as the database.
 ## Features
 - User Authentication.
 - Clients Management.
@@ -13,5 +13,13 @@ A desktop banking management system bult with C# and Windows Form ,using SQL Ser
 - Display all Currencies.
 - Convert Currency.
 - Update Rate.
+  ## Technologies Used
+  - C#.
+  - Windows Form.
+  - ADO.NET.
+  - SQL Server.
+  - Object-Oriented Programming (OOP).
+  - Three-Layer Architeture.
+  ##
   
 
