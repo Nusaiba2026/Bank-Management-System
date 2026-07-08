@@ -23,8 +23,8 @@
   ## Screenshots
   ![Image here](Screenshot/LoginScreen.png)
   ![Image here](Screenshot/Home.png)
-  ![Image here](Screenshot/ShowClients.png)
-  ![Image here](Screenshot/LoginsList.png)
+  ![Image here](Screenshot/AddEditClient.png.png)
+
   
 
 
