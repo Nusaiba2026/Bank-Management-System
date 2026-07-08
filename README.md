@@ -24,7 +24,7 @@
   ![Image here](Screenshot/LoginScreen.png)
   ![Image here](Screenshot/Home.png)
   ![Image here](Screenshot/AddEditClient.png)
-  ![Image here](Screenshot/Show Transactions.png)
+  ![Image here](Screenshot/ShowTransactions.png)
 ![Image here](Screenshot/DepositWithdraw.png)
 ![Image here](Screenshot/CurrencyCalculator.png)
 ![Image here](Screenshot/LoginsList.png)
