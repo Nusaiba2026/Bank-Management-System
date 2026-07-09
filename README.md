@@ -38,7 +38,7 @@ Bank Management System
 └── README.md-provide documentaion and instructions for the project.
  ```
 ## How To Run
--Create the database using (Database\BankSystem.sql).
+ -Create the database using (Database\BankSystem.sql).
 - Update the SQL Server connection string.
 - Open the solution in Visual Studio.
 - Build and run the project.
