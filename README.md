@@ -21,7 +21,7 @@
   - Object-Oriented Programming (OOP).
   - Three-Layer Architeture.
   ## Screenshots
-  ![Image here](Screenshot/AddEditClient.png)
+  ![Image here](Screenshot/AddNewUser.png)
 
 
   
