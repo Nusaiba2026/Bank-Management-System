@@ -14,19 +14,19 @@
 - Convert Currency.
 - Update Rate.
 ## Technologies Used
-  - C#.
-  - Windows Form.
-  - ADO.NET.
-  - SQL Server.
-  - Object-Oriented Programming (OOP).
-  - Three-Layer Architeture.
-  ## Screenshots
-  ![Image here](Screenshot/AddNewUser.png)
-  ![Image here](Screenshot/CurrencyCalculator.png)
-  ![Image here](Screenshot/DepositWithdrawMoney.png)
-  ![Image here](Screenshot/Logins.png)
-  ![Image here](Screenshot/ShowClientList.png)
-  ![Image here](Screenshot/Transactions.png)
+- C#.
+- Windows Form.
+- ADO.NET.
+- SQL Server.
+- Object-Oriented Programming (OOP).
+- Three-Layer Architeture.
+## Screenshots
+ ![Image here](Screenshot/AddNewUser.png)
+ ![Image here](Screenshot/CurrencyCalculator.png)
+ ![Image here](Screenshot/DepositWithdrawMoney.png)
+ ![Image here](Screenshot/Logins.png)
+ ![Image here](Screenshot/ShowClientList.png)
+ ![Image here](Screenshot/Transactions.png)
 
 
   
