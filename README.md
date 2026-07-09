@@ -24,6 +24,8 @@
   ![Image here](Screenshot/AddNewUser.png)
   ![Image here](Screenshot/CurrencyCalculator.png)
   ![Image here](Screenshot/DepositWithdrawMoney.png)
+  ![Image here](Screenshot/Logins.png)
+  ![Image here](Screenshot/ShowClientList.png)
 
 
   
