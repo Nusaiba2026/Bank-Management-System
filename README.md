@@ -27,6 +27,34 @@
  ![Image here](Screenshot/Logins.png)
  ![Image here](Screenshot/ShowClientList.png)
  ![Image here](Screenshot/Transactions.png)
+ ## Program Structure
+ Bank Management System
+ │
+├── BankSystem_PresentationLayer
+│   ├── Forms
+│   ├── User Controls
+│   ├── Images
+│   └── Program.cs
+│
+├── BankSystem_BusinessLayer
+│   ├── Client
+│   ├── User
+|   ├── Logins
+│   ├── Transaction
+│   └── Currency
+│
+├── BankSystem_DataAccessLayer
+│   ├── Database Connection
+│   ├── SQL Queries
+│   └── Data Access Classes
+│
+├── Database
+│   └── BankSystem.sql
+│
+├── Screenshots
+│
+└── README.md
+ 
 
 
   
