@@ -13,7 +13,7 @@
 - Display all Currencies.
 - Convert Currency.
 - Update Rate.
-  ## Technologies Used
+## Technologies Used
   - C#.
   - Windows Form.
   - ADO.NET.
