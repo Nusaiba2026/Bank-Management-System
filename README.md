@@ -31,10 +31,10 @@
  ```
 Bank Management System
 │
-├── BankSystem_PresentationLayer
-├── BankSystem_BusinessLayer
-├── BankSystem_DataAccessLayer
-├── Database
+├── BankSystem_PresentationLayer-contains the Windows Form user interface
+├── BankSystem_BusinessLayer-contains the Business Logic 
+├── BankSystem_DataAccessLayer-handles database operation using ADO.NET
+├── Database-contains the SQL Server datatbase creation script (BankSystem.sql)
 ├── Screenshots
 └── README.md
  ```
