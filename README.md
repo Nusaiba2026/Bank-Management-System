@@ -28,8 +28,8 @@
  ![Image here](Screenshot/ShowClientList.png)
  ![Image here](Screenshot/Transactions.png)
  ## Program Structure
+ ```
 Bank Management System
-```
 │
 ├── BankSystem_PresentationLayer
 ├── BankSystem_BusinessLayer
