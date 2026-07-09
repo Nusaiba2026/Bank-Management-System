@@ -29,6 +29,7 @@
  ![Image here](Screenshot/Transactions.png)
  ## Program Structure
 Bank Management System
+```
 │
 ├── BankSystem_PresentationLayer
 ├── BankSystem_BusinessLayer
@@ -36,7 +37,7 @@ Bank Management System
 ├── Database
 ├── Screenshots
 └── README.md
- 
+ ```
 
 
   
