@@ -2,7 +2,7 @@
 ## A desktop banking management system bult with C# and Windows Form ,using SQL Server as the database.
 ## Features
 - User Authentication.
-- Clients Management.
+- Client Management.
 - User Management.
 - Register all Logins including Login date.
 - Filter Logins by date.
@@ -10,16 +10,15 @@
 - Money Transfer.
 - Record all Transactions including the Transaction date.
 - Filter Transaction by Date.
-- Display all Currencies.
+- View Available Currencies and update rate.
 - Convert Currency.
-- Update Rate.
 ## Technologies Used
 - C#.
-- Windows Form.
+- Windows Forms.
 - ADO.NET.
 - SQL Server.
 - Object-Oriented Programming (OOP).
-- Three-Layer Architeture.
+- Three-Layer Architecture.
 ## Screenshots
  ![Image here](Screenshot/AddNewUser.png)
  ![Image here](Screenshot/CurrencyCalculator.png)
@@ -38,6 +37,11 @@ Bank Management System
 ├── Screenshots-contains screenshot of the application.
 └── README.md-provide documentaion and instructions for the project.
  ```
+## How To Run
+-Create the database using (Database\BankSystem.sql).
+- Update the SQL Server connection string.
+- Open the solution in Visual Studio.
+- Build and run the project.
 
 
   
